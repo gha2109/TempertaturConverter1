@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tempertatur Converter</string>
+    <string name="_0_0" />
+    <string name="c_2_f" />
+    <string name="f_2_c" />
+    <string name="show_ans" />
+    <string name="again" />
+</resources>
